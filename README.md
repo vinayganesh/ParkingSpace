@@ -9,14 +9,14 @@ There are two different modes in the application. The first one is the User Mode
 
 Technical Details
 
-● Uses Google Maps v2
-●	Uses SQLite database to store the Location Information
-●	The Address is converted to LAT and LNG Values.
-●	Based on the LAT and LNG values, the marker is set.
+1.Uses Google Maps v2
+2.Uses SQLite database to store the Location Information
+3.The Address is converted to LAT and LNG Values.
+4.Based on the LAT and LNG values, the marker is set.
 
 Future Enhancements
 
-●	User Logins
-●	Security Features to prevent redundancy
-●	Verifying the owners.
+1.User Logins
+2.Security Features to prevent redundancy
+3.Verifying the owners.
 
