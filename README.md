@@ -1,4 +1,4 @@
-ParkingSpace
+ParkingSpace - Android Application
 ============
 
 Tired looking for a parking space in and around downtown in the major cities? or Have a parking space in your apartment which is lying vacant for eons?  Parking Place is a one touch solution to help find out parking spots in the vicinity of where you are looking to park your vehicle. The prices that you pay will be much lesser depending on the hours of parking. Park more and pay less is the tagline here. 
